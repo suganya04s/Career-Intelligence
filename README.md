@@ -1,16 +1,62 @@
-# React + Vite
+# Career Intelligence
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive career management platform built with React.js to help job seekers understand their job readiness, analyze job requirements, identify skill gaps, and track job applications.
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Career Intelligence is designed as a single platform for managing the early stages of a job search.
 
-## React Compiler
+Users can maintain their skills, analyze job descriptions against their current skill set, identify missing skills, and keep track of their job applications and statuses.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
 
-## Expanding the ESLint configuration
+- 📊 Career Dashboard
+  - Total applications
+  - Interview count
+  - Skill match percentage
+  - Career readiness overview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔍 Job Analyzer
+  - Analyze job descriptions
+  - Identify required skills
+  - Compare job requirements with user skills
+  - Calculate skill match percentage
+
+- 🧠 Skill Gap Analysis
+  - Identify missing skills
+  - View areas that need improvement
+  - Get skill-based recommendations
+
+- 🛠️ My Skills
+  - Add and manage technical skills
+  - Maintain the user's current skill set
+
+- 📋 Application Tracker
+  - Add job applications
+  - Track company and role details
+  - Update application status
+  - Delete applications
+  - View application history
+
+- 💾 Persistent Data
+  - Stores application and career data using LocalStorage
+
+- 📱 Responsive Design
+  - Designed for desktop, tablet, and mobile screens
+
+## Application Flow
+
+```text
+My Skills
+    ↓
+Job Analyzer
+    ↓
+Skill Match
+    ↓
+Skill Gap Analysis
+    ↓
+Apply for Job
+    ↓
+Track Application
+    ↓
+Monitor Career Progress
