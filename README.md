@@ -63,3 +63,29 @@ Monitor Career Progress
 
 ```
 
+## Technologies Used
+
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- React Router
+- Context API
+- LocalStorage
+
+## Project Structure
+
+```text
+src/
+├── components/
+│   └── Sidebar.jsx
+├── context/
+│   └── CareerContext.jsx
+├── pages/
+│   ├── Dashboard.jsx
+│   ├── JobAnalyzer.jsx
+│   ├── MySkills.jsx
+│   ├── SkillGap.jsx
+│   └── Applications.jsx
+├── App.jsx
+└── main.jsx
