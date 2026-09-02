@@ -89,3 +89,12 @@ src/
 │   └── Applications.jsx
 ├── App.jsx
 └── main.jsx
+
+```
+
+## Installation
+
+git clone https://github.com/suganya04s/Career-Intelligence.git
+cd Career-Intelligence
+npm install
+npm run dev
