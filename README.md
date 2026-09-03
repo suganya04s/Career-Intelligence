@@ -100,14 +100,16 @@ src/
 ### Job Analyzer
 ![Job Analyzer](src/screenshots/Job%20analyzer.png)
 
-### My Skills
-![My Skills](src/screenshots/My%20skills.png)
+### Applications
+![Applications](src/screenshots/Applications.png)
+
 
 ### Skill Gap Analysis
 ![Skill Gap Analysis](src/screenshots/Skill%20gap%20analysis.png)
 
-### Applications
-![Applications](src/screenshots/Applications.png)
+### My Skills
+![My Skills](src/screenshots/My%20skills.png)
+
 
 ## Installation
 
