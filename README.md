@@ -92,6 +92,31 @@ src/
 
 ```
 
+## Screenshots
+
+### Dashboard
+![Dashboard](src/screenshots/Dashbord.png)
+
+### Job Analyzer
+![Job Analyzer](src/screenshots/Job%20analyzer.png)
+
+### My Skills
+![My Skills](src/screenshots/My%20skills.png)
+
+### Skill Gap Analysis
+![Skill Gap Analysis](src/screenshots/Skill%20gap%20analysis.png)
+
+### Applications
+![Applications](src/screenshots/Applications.png)
+
+## Installation
+
+```bash
+git clone https://github.com/suganya04s/Career-Intelligence.git
+cd Career-Intelligence
+npm install
+npm run dev
+
 ## Installation
 
 git clone https://github.com/suganya04s/Career-Intelligence.git
